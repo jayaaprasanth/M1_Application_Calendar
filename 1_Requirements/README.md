@@ -12,45 +12,45 @@
  -we can monitor the days,weeks,month,year.
  -By using this application we know the which day we are in.
 
-###WEEKNESS
+### WEEKNESS
  
  -we can't mark the events in my  calender.
 
-###OPPORTUNITIES
+### OPPORTUNITIES
 
  -In this application we can set the time period for the work alloted.
  -It can be help to track the weeks,months,years.
 
-###THREATS
+### THREATS
 
  -
  
 ##4 W’s and 1 H
 
-###WHO
+### WHO
 
  -Any one can access the calender
  
-###what
+### what
  
  -It is used to track the weeks,months ,years.
   
-###when
+### when
   
  -whenever we want we can view the calander
     
- ###why
+ ### why
   -It will helpfull in our daily life
     
- ###How
+ ### How
  
   -This project is implemented by using loops, function call and other functionalities of C.
   
- ##TOOLS
+ ## TOOLS
  
   -Vs Code with Some Extensions like C/C++.
   
- ##Detail Requirements
+ ## Detail Requirements
  
 ## HIGH LEVEL REQUIREMENTS
  
