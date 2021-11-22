@@ -18,14 +18,14 @@
 
 ### OPPORTUNITIES
 
- -In this application we can set the time period for the work alloted.
+ -Online calender.
  -It can be help to track the weeks,months,years.
 
 ### THREATS
 
- -
+ -some time it will crash
  
-##4 W’s and 1 H
+## 4 W’s and 1 H
 
 ### WHO
 
@@ -54,6 +54,6 @@
  
 ## HIGH LEVEL REQUIREMENTS
  
- -They need to download the application.
- 
+ -User Should have internet access. And should able to open any IDE like VS code, Eclipse etc….
+ -User should Run the code and able to access the Terminal of the preferred IDE ex: If the player open the C programme using the VS code then he should open the Terminal of VS Code. 
     
