@@ -61,8 +61,7 @@ char* getMonthName(int monthNumber)
     return month;
 }
   
-// Function to return the number of days
-// in a month
+
 int numberOfDays(int monthNumber, int year)
 {
     // January
@@ -71,8 +70,7 @@ int numberOfDays(int monthNumber, int year)
   
     // February
     if (monthNumber == 1) {
-        // If the year is leap then Feb
-        // has 29 days
+       
         if (year % 400 == 0
             || (year % 4 == 0
                 && year % 100 != 0))
@@ -122,30 +120,24 @@ int numberOfDays(int monthNumber, int year)
         return (31);
 }
   
-// Function to print the calendar of
-// the given year
+
 void printCalendar(int year)
 {
     printf("     Calendar - %d\n\n", year);
     int days;
   
-    // Index of the day from 0 to 6
     int current = dayNumber(1, 1, year);
   
-    // i for Iterate through months
-    // j for Iterate through days
-    // of the month - i
+   
     for (int i = 0; i < 12; i++) {
         days = numberOfDays(i, year);
   
-        // Print the current month name
+     
         printf("\n ------------%s-------------\n",
                getMonthName(i));
   
-        // Print the columns
         printf(" Sun   Mon  Tue  Wed  Thu  Fri  Sat\n");
   
-        // Print appropriate spaces
         int k;
         for (k = 0; k < current; k++)
             printf("     ");
