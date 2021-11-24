@@ -1,3 +1,4 @@
+[![static code cppcheck](https://github.com/jayaaprasanth/M1_Application_Calendar/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/jayaaprasanth/M1_Application_Calendar/actions/workflows/c-cpp.yml)
 # M1_Application_Calendar
 ## Folder Structure
 | Folder | Description |
